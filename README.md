@@ -1,2 +1,5 @@
 # hello-world
-A place to keep all my ideas and plans.
+
+I'm Jonathan, a Computer Science major at Union College.
+
+This repository is going to be a place for me to keep all my ideas and plans.
